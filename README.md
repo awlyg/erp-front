@@ -1,2 +1,2 @@
 # erp-front
-This is a private projet for the dardelta client, developed by awlyg technologies 
+This is a demo prjet
